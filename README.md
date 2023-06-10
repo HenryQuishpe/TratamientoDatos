@@ -1,2 +1,2 @@
-# TratamientoDato
+# TratamientoDatos
 Ejercicio 1
